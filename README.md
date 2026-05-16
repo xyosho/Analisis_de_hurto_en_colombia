@@ -1,4 +1,4 @@
-# Análisis de Hurto en Colombia 🇨🇴
+# Análisis de Hurto en Colombia 
 
 Dashboard interactivo en Power BI que analiza los delitos de hurto registrados en Colombia, con segmentación geográfica, por modalidad, por perfil de víctima y por indicadores temporales.
 
